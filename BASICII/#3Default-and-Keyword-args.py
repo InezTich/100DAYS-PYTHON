@@ -2,7 +2,8 @@
 '''docs
 - positional argument are required to be in the proper position
 - keyword arguments sometime call default parameters
-- default parameters make you easily control your logic code when     you call the function forget it's arguments.
+- default parameters make you easily control your logic code when
+  you call the function forget it's arguments.
 '''
 
 
